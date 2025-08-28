@@ -10,4 +10,6 @@ The order of notebooks is as followed:
 * Sesame_Fine_Tune.ipynb ran the fine-tuning of Sesame's CSM
 * submodule 'imagespeaker' that houses the end application
 
+Please open in Colab when you can. Most of the notebooks that have that option were created using Google Cloab for the GPU capability.
+
 The final product was an application that is able to extract text from an uploaded image and then uses the fine-tuned Sesame model to generate human like audio from that text.
